@@ -2,7 +2,7 @@
 
 This project implements a **Shortest Path Finder** using **Dijkstra’s Algorithm** in Java. It models a real-world urban network and computes the shortest route between two locations, similar to GPS navigation systems.
 
-## 📖 Project Overview
+## Project Overview
 
 Urban navigation presents challenges like complex road networks and varying traffic conditions. This project uses **graph theory** and **Dijkstra’s algorithm** to compute optimal paths between locations in Bangalore’s city network. 
 
@@ -13,7 +13,7 @@ The implementation provides:
 
 ---
 
-## 🚀 Features
+## Features
 
 - Find shortest paths between major Bangalore locations
 - Displays total distance and the path taken
@@ -23,7 +23,7 @@ The implementation provides:
 
 ---
 
-## 🛠 Technologies Used
+## Technologies Used
 
 - **Java**
 - **Data Structures:** HashMap, PriorityQueue, Adjacency List
@@ -32,7 +32,7 @@ The implementation provides:
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```
 src/
@@ -45,7 +45,7 @@ src/
 
 ---
 
-## 📌 How It Works
+## How It Works
 
 1. Users select a **starting location** and **destination** from a predefined list.
 2. Dijkstra’s algorithm calculates the shortest route and total distance.
@@ -71,7 +71,7 @@ Route: Majestic → Banashankari → Jayanagar
 
 ---
 
-## 🗺 Sample Locations
+## Sample Locations
 
 - Majestic
 - MG Road
@@ -88,7 +88,7 @@ Route: Majestic → Banashankari → Jayanagar
 
 ---
 
-## 📈 Future Enhancements
+## Future Enhancements
 
 - Real-time traffic integration
 - Dynamic routing
@@ -98,7 +98,7 @@ Route: Majestic → Banashankari → Jayanagar
 
 ---
 
-## 📦 Getting Started
+## Getting Started
 
 1. Clone this repository:
     ```bash
@@ -115,4 +115,4 @@ Route: Majestic → Banashankari → Jayanagar
 
 ---
 
-💡 *Thank you for using Bangalore Route Finder!*
+*Thank you for using Bangalore Route Finder!*
