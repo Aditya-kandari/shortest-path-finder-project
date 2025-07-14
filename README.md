@@ -1,2 +1,1 @@
-# shortest-path-finder-project
- A Java application that finds the shortest path between two locations in Bangalore using Dijkstra’s Algorithm. Includes an interactive console interface and realistic distance modeling.
+[README.md](https://github.com/user-attachments/files/21209661/README.md)
